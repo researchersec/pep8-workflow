@@ -2,7 +2,6 @@
 
 class Literature:
     """A class to represent a piece of literature."""
-    
     def __init__(self, title, writer, length, cost):
         """Initialize the literature's attributes."""
         self.title = title
